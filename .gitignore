@@ -1,0 +1,52 @@
+# Gradle files
+.gradle/
+build/
+.kotlin/
+
+# Local scratch data and validation captures
+.scratch/
+artifacts/
+
+# Legacy AmbientZones teaching material kept only in this workspace
+MISSION.md
+NOTES.md
+RESOURCES.md
+assets/
+lessons/
+reference/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log/OS Files
+*.log
+.DS_Store
+
+# Android Studio generated files and folders
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+output.json
+
+# IntelliJ
+*.iml
+.idea/
+misc.xml
+deploymentTargetDropDown.xml
+render.experimental.xml
+
+# Spatial Editor local state
+editor-asset/**/.CacheData/
+editor-asset/**/UserSettings/
+editor-asset/**/ModelView
+
+# Keystore files
+*.jks
+*.keystore
+
+# Google Services (e.g. APIs or Firebase)
+google-services.json
+
+# Android Profiling
+*.hprof
