@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">TideBeacon</string>
+    <string name="app_name">呼吸灯塔</string>
     <string name="hello">Hello, Spatial SDK！</string>
 </resources>
